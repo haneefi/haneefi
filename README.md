@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**haneefi/haneefi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Haneef M P
 
-Here are some ideas to get you started:
+## I'm a Web and Mobile Developer
+- 🔭 I’m currently working on a E-commerce Based Company!
+- 🌱 I’m currently learning everything 🤣
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+@haneefi
+
+### Languages and Tools:
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haneefi&show_icons=true)
+
+[![Haneef GitHub stats](https://github-readme-stats.vercel.app/api?username=haneefi)](https://github.com/haneefi/github-readme-stats)
