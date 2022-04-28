@@ -1,7 +1,7 @@
 
 # Haneef M P
 
-## I'm a Web and Mobile Developer
+## I'm a Web and Mobile App Developer
 - 🔭 I’m currently working on a E-commerce Based Company!
 - 🌱 I’m currently learning everything 🤣
 
